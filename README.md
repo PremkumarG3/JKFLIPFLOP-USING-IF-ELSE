@@ -50,6 +50,7 @@ Step-6 Run the program.
 #### Developed by:PREM KUMAR G
 #### Register number: 212223230158
 
+```
 module JKFLIPFLOP(q, qb,j,k,clock,reset);
     input j,k,clock,reset;
     output reg q, qb;
@@ -83,6 +84,7 @@ else
 	end
 end	
 endmodule
+```
 
 **RTL LOGIC FOR FLIPFLOPS**
 ![Screenshot 2024-04-18 144348](https://github.com/PremkumarG3/JKFLIPFLOP-USING-IF-ELSE/assets/138955646/32bee5ef-0e44-4292-911f-e25a8cb02683)
