@@ -93,4 +93,6 @@ endmodule
 ![Screenshot 2024-04-18 144357](https://github.com/PremkumarG3/JKFLIPFLOP-USING-IF-ELSE/assets/138955646/d8bc0ba8-ea1a-4621-be2b-c96216126895)
 
 **RESULTS**
+
+
 Thus,the code executed successfully.
